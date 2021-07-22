@@ -1,2 +1,0 @@
-# KomitsJambi
- Landing page
